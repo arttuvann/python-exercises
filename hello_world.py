@@ -12,6 +12,7 @@
 #   * Create more test cases with unittest to get comfortable with it
 #   * Integrate testing into Docker container debugging and deployment so that testing is done inside container (with its packages)
 #     rather than the host machine.
+#   * Next step: unit testing file processing (e.g. XML parsing)
 
 def hello_world():
     return "Hello world!"
